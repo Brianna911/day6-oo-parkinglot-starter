@@ -23,4 +23,5 @@ public class Car {
     public int hashCode() {
         return licensePlate.hashCode();
     }
+
 }
